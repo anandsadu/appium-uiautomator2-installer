@@ -11,10 +11,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/appium/appium-selendroid-installer.git"
+    "url": "git+https://github.com/appium/appium-uiautomator2-installer.git"
   },
   "bugs": {
-    "url": "https://github.com/appium/appium-selendroid-installer/issues"
+    "url": "https://github.com/appium/appium-uiautomator2-installer/issues"
   },
   "engines": [
     "node"
@@ -42,12 +42,5 @@
     "chai": "^3.4.0",
     "chai-as-promised": "^5.1.0",
     "gulp": "^3.9.0"
-  },
-  "readme": "appium-selendroid-installer\n===================\n\nWork in progress, stay tuned!\n\n## Watch\n\n```\nnpm run watch\n```\n\n## Test\n\n```\nnpm test\n```\n",
-  "readmeFilename": "README.md",
-  "homepage": "https://github.com/appium/appium-selendroid-installer#readme",
-  "_id": "appium-selendroid-installer@0.2.0",
-  "_shasum": "015c4df04bb4348cce9d1daeef7f8012e83b97ca",
-  "_resolved": "https://registry.npmjs.org/appium-selendroid-installer/-/appium-selendroid-installer-0.2.0.tgz",
-  "_from": "https://registry.npmjs.org/appium-selendroid-installer/-/appium-selendroid-installer-0.2.0.tgz"
+  }
 }

@@ -1,4 +1,4 @@
-appium-selendroid-installer
+appium-uiautomator2-installer
 ===================
 
 Work in progress, stay tuned!
